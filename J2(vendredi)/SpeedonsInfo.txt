@@ -1,0 +1,21 @@
+Nombre de message dans le chat: 82595
+Nombre de PepoG total: 2723
+Nombre de Note retenue par les viewers: 3943
+Nombre d'amour total: 13946
+Nombre de GG total: 14205
+Nombre de Rire total: 5654
+Nombre d'Emote note par les viewers: 4288
+
+Top 5 Emote de note:
+Emote: PepoG, Nombre de fois: 2712
+Emote: angledPepog, Nombre de fois: 2417
+Emote: mrmvNote, Nombre de fois: 287
+Emote: eluNotes, Nombre de fois: 113
+Emote: otpPeepoG, Nombre de fois: 94
+
+Top 5 viewers qui ont le plus parlé:
+Pseudo: veto_en_herbe, Nombre de message: 920
+Pseudo: gigipinkmouse, Nombre de message: 875
+Pseudo: stiquema, Nombre de message: 659
+Pseudo: goch5, Nombre de message: 553
+Pseudo: baka_raion_hato_31, Nombre de message: 530
