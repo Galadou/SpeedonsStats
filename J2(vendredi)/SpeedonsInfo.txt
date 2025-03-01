@@ -4,7 +4,7 @@ Nombre de Note retenue par les viewers: 3943
 Nombre d'amour total: 13946
 Nombre de GG total: 14205
 Nombre de Rire total: 5654
-Nombre d'Emote note par les viewers: 4288
+Nombre d'Emote note toal: 7240
 
 Top 5 Emote de note:
 Emote: PepoG, Nombre de fois: 2712

@@ -228,6 +228,18 @@ void nbNoteViewers(char **argv, std::ofstream &outfile)
 	outfile << "Nombre de Note retenue par les viewers: " << nb_note << std::endl;
 }
 
+static size_t count_occurrences(const std::string& str, const std::string& substr)
+{
+	size_t count = 0;
+	size_t pos = 0;
+
+	while ((pos = str.find(substr, pos)) != std::string::npos) {
+		++count;
+		pos += substr.length();
+	}
+	return (count);
+}
+
 void nbEmoteNote(char **argv, std::ofstream &outfile)
 {
 	std::string str;
@@ -241,37 +253,22 @@ void nbEmoteNote(char **argv, std::ofstream &outfile)
 		i++;
 	while (std::getline(file, str) && i < MAXLINE)
 	{
-		if (str.find("PepoG") != std::string::npos)
-			nb_note++;
-		if (str.find("PEPOG") != std::string::npos)
-			nb_note++;
-		if (str.find("pepog") != std::string::npos)
-			nb_note++;
-		if (str.find("Pepog") != std::string::npos)
-			nb_note++;
-		if (str.find("pepoG") != std::string::npos)
-			nb_note++;
-		if (str.find("PeepoG") != std::string::npos)
-			nb_note++;
-		if (str.find("note") != std::string::npos)
-			nb_note++;
-		if (str.find("NOTE") != std::string::npos)
-			nb_note++;
-		if (str.find("Note") != std::string::npos)
-			nb_note++;
-		if (str.find("gom4rtLecture") != std::string::npos)
-			nb_note++;
-		if (str.find("mynG") != std::string::npos)
-			nb_note++;
-		if (str.find("zugNerd") != std::string::npos)
-			nb_note++;
-		if (str.find("milio1Learn") != std::string::npos)
-			nb_note++;
-		if (str.find("iitzG") != std::string::npos)
-			nb_note++;
+		nb_note += count_occurrences(str, "PepoG");
+		nb_note += count_occurrences(str, "PEPOG");
+		nb_note += count_occurrences(str, "Pepog");
+		nb_note += count_occurrences(str, "pepog");
+		nb_note += count_occurrences(str, "PeepoG");
+		nb_note += count_occurrences(str, "note");
+		nb_note += count_occurrences(str, "NOTE");
+		nb_note += count_occurrences(str, "Note");
+		nb_note += count_occurrences(str, "gom4rtLecture");
+		nb_note += count_occurrences(str, "mynG");
+		nb_note += count_occurrences(str, "zugNerd");
+		nb_note += count_occurrences(str, "milio1Learn");
+		nb_note += count_occurrences(str, "iitzG");
 	}
 	file.close();
-	outfile << "Nombre d'Emote note par les viewers: " << nb_note << std::endl;
+	outfile << "Nombre d'Emote note toal: " << nb_note << std::endl;
 }
 
 static void find_and_count_words(const std::string& line, std::string target, std::map<std::string, int> &wordCount)
