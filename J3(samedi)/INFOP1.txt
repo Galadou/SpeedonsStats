@@ -1,0 +1,23 @@
+INFOS A ADITIONNER AVEC LA PARTIE 2 CAR LE LIVE ETAIS DECOUPER
+
+Nombre de message dans le chat: 11659
+Nombre de PepoG total: 216
+Nombre de Note retenue par les viewers: 257
+Nombre d'amour total: 2638
+Nombre de GG total: 1414
+Nombre de Rire total: 890
+Nombre d'Emote note toal: 323
+
+Top 5 Emote de note:
+Emote: PepoG, Nombre de fois: 215
+Emote: lbwNote, Nombre de fois: 23
+Emote: @FlyNote, Nombre de fois: 10
+Emote: khenaeNote_SQ, Nombre de fois: 7
+Emote: note, Nombre de fois: 6
+
+Top 5 viewers qui ont le plus parlé:
+Pseudo: arkolt, Nombre de message: 186
+Pseudo: canarlake, Nombre de message: 108
+Pseudo: beledhien, Nombre de message: 103
+Pseudo: jahgring0, Nombre de message: 100
+Pseudo: elerio, Nombre de message: 93
