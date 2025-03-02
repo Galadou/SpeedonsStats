@@ -1,23 +1,21 @@
-Nombre de GG total: 33356
-Nombre de message dans le chat: 235755
-Nombre d'amour total: 67566
-Nombre de PepoG total: 9984
-Nombre d'Emote note toal: 23276
-Nombre de Note retenue par les viewers: 13866
-Nombre de Rire total: 17498
+Nombre de GG total: 24464
+Nombre de message dans le chat: 164964
+Nombre d'amour total: 45720
+Nombre de PepoG total: 6463
+Nombre d'Emote note toal: 15094
+Nombre de Note retenue par les viewers: 9034
+Nombre de Rire total: 12235
 
 Top 5 viewers qui ont le plus parlé:
-Pseudo: gigipinkmouse, Nombre de message: 2304
-Pseudo: veto_en_herbe, Nombre de message: 1857
-Pseudo: goch5, Nombre de message: 1345
-Pseudo: baka_raion_hato_31, Nombre de message: 1168
-Pseudo: mylittlepoulpy, Nombre de message: 1092
+Pseudo: gigipinkmouse, Nombre de message: 1605
+Pseudo: veto_en_herbe, Nombre de message: 1393
+Pseudo: goch5, Nombre de message: 969
+Pseudo: baka_raion_hato_31, Nombre de message: 849
+Pseudo: moobot, Nombre de message: 800
 
 Top 5 Emote de note:
-Emote: PepoG, Nombre de fois: 9938
-Emote: angledPepog, Nombre de fois: 7346
-Emote: mrmvNote, Nombre de fois: 1477
-Emote: crocoPEPOG, Nombre de fois: 523
-Emote: lbwNote, Nombre de fois: 346
-
-CETAIS UN TEST PAS VRAIS
+Emote: PepoG, Nombre de fois: 6434
+Emote: angledPepog, Nombre de fois: 4883
+Emote: mrmvNote, Nombre de fois: 881
+Emote: crocoPEPOG, Nombre de fois: 297
+Emote: lbwNote, Nombre de fois: 231
