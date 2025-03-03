@@ -1,21 +1,25 @@
-Nombre de GG total: 24464
-Nombre de message dans le chat: 164964
-Nombre d'amour total: 45720
-Nombre de PepoG total: 6463
-Nombre d'Emote note toal: 15094
-Nombre de Note retenue par les viewers: 9034
-Nombre de Rire total: 12235
+Nombre de GG total: 86720
+Nombre de message dans le chat: 444127
+Nombre d'amour total: 371689
+Nombre de PepoG total: 12887
+Nombre d'Emote note toal: 25389
+Nombre de Note retenue par les viewers: 17539
+Nombre de Rire total: 32317
+Nombre de ACHETE: 6992
+Nombre de ROMET: 3268
+Nombre de MIAOU: 6368
+Nombre de WEEE: 6308
 
 Top 5 viewers qui ont le plus parlé:
-Pseudo: gigipinkmouse, Nombre de message: 1605
-Pseudo: veto_en_herbe, Nombre de message: 1393
-Pseudo: goch5, Nombre de message: 969
-Pseudo: baka_raion_hato_31, Nombre de message: 849
-Pseudo: moobot, Nombre de message: 800
+Pseudo: gigipinkmouse, Nombre de message: 4174
+Pseudo: dagniir, Nombre de message: 3630
+Pseudo: veto_en_herbe, Nombre de message: 3512
+Pseudo: goch5, Nombre de message: 3482
+Pseudo: jollyroger3160, Nombre de message: 3086
 
 Top 5 Emote de note:
-Emote: PepoG, Nombre de fois: 6434
-Emote: angledPepog, Nombre de fois: 4883
-Emote: mrmvNote, Nombre de fois: 881
-Emote: crocoPEPOG, Nombre de fois: 297
-Emote: lbwNote, Nombre de fois: 231
+Emote: PepoG, Nombre de fois: 12812
+Emote: angledPepog, Nombre de fois: 8035
+Emote: mrmvNote, Nombre de fois: 1559
+Emote: lbwNote, Nombre de fois: 454
+Emote: eluNotes, Nombre de fois: 427

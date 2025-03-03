@@ -11,5 +11,7 @@ Total::Total()
 	this->nb_note = 0;
 	this->nb_emote = 0;
 	this->nb_rire = 0;
+	this->nb_miaou = 0;
+	this->nb_wee = 0;
 }
 Total::~Total() {}

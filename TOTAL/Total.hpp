@@ -26,6 +26,8 @@ struct Total
 	int nb_note;
 	int nb_emote;
 	int nb_rire;
+	int nb_miaou;
+	int nb_wee;
 	std::map<std::string, int> TopEmote;
 	std::map<std::string, int> TopChatter;
 };
@@ -39,6 +41,11 @@ void count_gg(std::string &str, Total &total);
 void topEmoteNote(std::string &str, Total &total);
 void count_rire(std::string &str, Total &total);
 void nbEmoteNote(std::string &str, Total &total);
+void count_achete(std::string &str, Total &total);
+void count_romet(std::string &str, Total &total);
+void count_miaou(std::string &str, Total &total);
+void count_wee(std::string &str, Total &total);
+
 
 void	printTopChatter(Total &total, std::ofstream &outfile);
 void	printTopEmote(Total &total, std::ofstream &outfile);

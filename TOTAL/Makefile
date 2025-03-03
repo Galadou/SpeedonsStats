@@ -3,12 +3,16 @@ NAME = a.out
 SRCS = 	main.cpp \
 		Total.cpp \
 		printTop.cpp \
+		srcs/Achete.cpp \
 		srcs/GG.cpp \
 		srcs/Line.cpp \
 		srcs/Love.cpp \
+		srcs/Miaou.cpp \
 		srcs/Pepog.cpp \
 		srcs/PriseNote.cpp \
+		srcs/Wee.cpp \
 		srcs/Rire.cpp \
+		srcs/Romet.cpp \
 		srcs/TopChatter.cpp \
 		srcs/TopEmote.cpp \
 		srcs/TotalEmote.cpp \

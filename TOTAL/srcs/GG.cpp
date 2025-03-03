@@ -16,7 +16,6 @@ void count_gg(std::string &str, Total &total)
 		pos++;
 	}
 	pos = 0;
-	pos = 0;
 	while ((pos = str.find("Gg", pos)) != std::string::npos)
 	{
 		total.nb_gg++;
